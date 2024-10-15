@@ -10,6 +10,7 @@ int ReadNumber() {
 	std::cin >> Number;
 	return Number;
 }
+// edit something to see effect 
 bool LeapYear(short Year) {
 	if (Year % 400 == 0) {
 		return true;
