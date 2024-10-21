@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Course-8", "Course-8.vcxproj", "{C3AF0B29-46FD-4F61-BABB-65D432953B5D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bank-App", "..\..\Cpp-Console-Projects\Cpp-Console-Projects.vcxproj", "{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C3AF0B29-46FD-4F61-BABB-65D432953B5D}.Release|x64.Build.0 = Release|x64
 		{C3AF0B29-46FD-4F61-BABB-65D432953B5D}.Release|x86.ActiveCfg = Release|Win32
 		{C3AF0B29-46FD-4F61-BABB-65D432953B5D}.Release|x86.Build.0 = Release|Win32
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Debug|x64.ActiveCfg = Debug|x64
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Debug|x64.Build.0 = Debug|x64
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Debug|x86.ActiveCfg = Debug|Win32
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Debug|x86.Build.0 = Debug|Win32
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Release|x64.ActiveCfg = Release|x64
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Release|x64.Build.0 = Release|x64
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Release|x86.ActiveCfg = Release|Win32
+		{930BEAEF-6827-4AFF-A7B9-4289ADF5F32A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
