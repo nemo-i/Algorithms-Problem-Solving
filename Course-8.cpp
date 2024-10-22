@@ -2,6 +2,7 @@
 #include <iostream>
 #include<string>
 #include<iomanip>
+//
 #include<ctime>
 #pragma warning (disable:4996)
 int ReadNumber() {
