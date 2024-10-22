@@ -9,7 +9,7 @@ class Calculator {
 		Subtracting,
 		Multpling,
 		Dividing,
-		Result
+		Clearing
 	};
 
 	std::string _setOperation(Operations opt) {
@@ -27,8 +27,10 @@ class Calculator {
 		case Operations::Dividing:
 			return "Dividing";
 			break;
+		case Operations::Clearing:
+			return "Clearing";
 		default:
-			return "Result";
+			return "Clearing";
 			break;
 		}
 	}
@@ -44,6 +46,7 @@ public:
 	void Clear() {
 		_result = 0;
 		_operand = 0;
+		_operation = _setOperation(Operations::Clearing);
 	}
 	void Add(int number) {
 		_result += number;
@@ -84,6 +87,8 @@ int main() {
 	calculator.Multplie(3);
 	calculator.PrintResult();
 	calculator.Divide(0);
+	calculator.PrintResult();
+	calculator.Clear();
 	calculator.PrintResult();
 	return 0;
 }
