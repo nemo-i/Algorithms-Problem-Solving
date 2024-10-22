@@ -2,7 +2,6 @@
 #include<string>
 
 
-//dot it 
 class Calculator {
 	enum Operations
 	{
