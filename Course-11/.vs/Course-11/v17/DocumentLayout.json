@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05EFCE-B2A3-438A-A1D5-C27AC15A6011}|Course-11.vcxproj|F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\csInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E05EFCE-B2A3-438A-A1D5-C27AC15A6011}|Course-11.vcxproj|solutionrelative:csInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E05EFCE-B2A3-438A-A1D5-C27AC15A6011}|Course-11.vcxproj|F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\Course-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E05EFCE-B2A3-438A-A1D5-C27AC15A6011}|Course-11.vcxproj|solutionrelative:Course-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "csInputValidate.h",
+              "DocumentMoniker": "F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\csInputValidate.h",
+              "RelativeDocumentMoniker": "csInputValidate.h",
+              "ToolTip": "F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\csInputValidate.h",
+              "RelativeToolTip": "csInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T16:47:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course-11.cpp",
+              "DocumentMoniker": "F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\Course-11.cpp",
+              "RelativeDocumentMoniker": "Course-11.cpp",
+              "ToolTip": "F:\\Hisham Own Stuff\\Projects I Made\\Cpp-Exersice\\Course-11\\Course-11.cpp",
+              "RelativeToolTip": "Course-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T04:42:24.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

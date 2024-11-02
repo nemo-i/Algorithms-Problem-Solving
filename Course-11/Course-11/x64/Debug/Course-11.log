@@ -1,0 +1,16 @@
+﻿  Course-11.cpp
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(51,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(102,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(108,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(292,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(320,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(322,71): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(339,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(348,36): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(373,43): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(388,43): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(413,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Strings.h(447,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Util.h(67,2): warning C4102: 'defualt': unreferenced label
+F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\Util.h(73): warning C4715: 'clsUtil::GetRandomCharacter': not all control paths return a value
+  Course-11.vcxproj -> F:\Hisham Own Stuff\Projects I Made\Cpp-Exersice\Course-11\x64\Debug\Course-11.exe
